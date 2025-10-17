@@ -1,1 +1,1 @@
-![NEMECYS Banner](https://github.com/nemecyseu/.github/blob/main/profile/Nemecys-Logo-banner.png)
+![NEMECYS Banner](https://github.com/nemecyseu/.github/blob/main/profile/assets/Nemecys-Logo-banner.png)
