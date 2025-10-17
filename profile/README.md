@@ -15,4 +15,3 @@ NEMECYS member organizations develop tools and toolboxes to support cybersecurit
 ## 🤝 Scientific Research and Collaboration
 
 NEMECYS fosters scientific research and collaborative initiatives to advance the cybersecurity of connected medical devices. By bringing together experts from academia, industry, and regulatory bodies, we promote innovation, share knowledge, and develop evidence-based solutions that strengthen the security of CMDs throughout their lifecycle. Collaboration also enables the identification of emerging threats and the co-creation of proactive strategies to address them.
-
