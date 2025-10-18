@@ -12,15 +12,15 @@ We continuously assess the current state of cybersecurity practices for connecte
 
 NEMECYS member organizations develop tools and toolboxes to support cybersecurity by design for CMDs. These tools are created based on realistic needs and scenarios and integrate methodologies, relevant guidelines, and best practices in security by design. The resulting toolboxes are tailored to the requirements of different stakeholders, including medical device manufacturers, integrators, and operators.
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+<div style="display: flex; gap: 10px; align-items: center;">
 <img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/compass.png" width=30%>
-<img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/trainings.png" width=30%>
+<img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/trainings.png" width=30%><br>
 <img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/coras.png" width=30%>
-<img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/ssm.png" width=30%>
+<img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/ssm.png" width=30%><br>
 <img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/pipelines.png" width=30%>
-<img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/sism.png" width=30%>
+<img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/sism.png" width=30%><br>
 <img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/ai.png" width=30%>
-<img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/firmware.png" width=30%>
+<img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/firmware.png" width=30%><br>
 <img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/network.png" width=30%>
 <img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/procurement.png" width=30%>
 </div>
