@@ -15,6 +15,14 @@ NEMECYS member organizations develop tools and toolboxes to support cybersecurit
 <div style="display: flex; gap: 10px; align-items: center;">
 <img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/compass.png" width=30%>
 <img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/trainings.png" width=30%>
+<img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/coras.png" width=30%>
+<img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/ssm.png" width=30%>
+<img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/pipelines.png" width=30%>
+<img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/sism.png" width=30%>
+<img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/ai.png" width=30%>
+<img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/firmware.png" width=30%>
+<img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/network.png" width=30%>
+<img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/procurement.png" width=30%>
 </div>
 
 ## 🤝 Scientific Research and Collaboration
