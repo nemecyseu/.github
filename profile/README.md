@@ -26,7 +26,7 @@ NEMECYS fosters scientific research and collaborative initiatives to advance the
 
 4. [**Athens Technology Center (ATC)**](https://www.atc.gr/): A Greek technology firm specializing in software development and IT system integration, supporting the development of cybersecurity tools for medical devices.
 
-5. [**Ribera Salud**](https://riberasalud.com/): A Spanish healthcare provider involved in implementing cybersecurity measures within hospital settings to protect connected medical devices.
+5. [**Ribera Salud**](https://riberasalud.com/): A Spanish healthcare provider actively collaborating to improve the cybersecurity of connected medical devices within clinical environments, ensuring patient safety and data protection.
 
 6. [**San Raffaele Hospital**](https://www.hsr.it/en/): An Italian hospital contributing real-world clinical insights to ensure that cybersecurity solutions align with healthcare needs.
 
