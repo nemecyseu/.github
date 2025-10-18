@@ -12,9 +12,8 @@ We continuously assess the current state of cybersecurity practices for connecte
 
 NEMECYS member organizations develop tools and toolboxes to support cybersecurity by design for CMDs. These tools are created based on realistic needs and scenarios and integrate methodologies, relevant guidelines, and best practices in security by design. The resulting toolboxes are tailored to the requirements of different stakeholders, including medical device manufacturers, integrators, and operators.
 
-![compass](https://github.com/nemecyseu/.github/blob/main/profile/assets/compass.png)
-![trainings](https://github.com/nemecyseu/.github/blob/main/profile/assets/trainings.png)
-
+<img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/compass.png" width=50% height=50%>
+<img src="https://github.com/nemecyseu/.github/blob/main/profile/assets/trainings.png" width=50% height=50%>
 
 ## 🤝 Scientific Research and Collaboration
 
