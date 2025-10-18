@@ -16,6 +16,26 @@ NEMECYS member organizations develop tools and toolboxes to support cybersecurit
 
 NEMECYS fosters scientific research and collaborative initiatives to advance the cybersecurity of connected medical devices. By bringing together experts from academia, industry, and regulatory bodies, we promote innovation, share knowledge, and develop evidence-based solutions that strengthen the security of CMDs throughout their lifecycle. Collaboration also enables the identification of emerging threats and the co-creation of proactive strategies to address them.
 
+Some of the research publications produced by NEMECYS:
+
+- Steve Taylor, et al. “A Way Forward for the MDCG 2019-16 Medical Device Security Guidance.” *PETRA '24: Proceedings of the 17th International Conference on PErvasive Technologies Related to Assistive Environments*.
+
+- Gencer Erdogan, Laura Carmichael, Steve Taylor, Simeon Tverdal, and Andrea Neverdal Skytterholm. “Dynamic Cyber Risk Assessment for Connected Medical Devices: the NEMECYS Approach.” *Joint Proceedings of RCIS 2024 Workshops and Research Projects Track*.
+
+- Silje Marie Sørlien, Åse Marie Solnør, Karin Bernsmed, and Martin Gilje Jaatun. “Fuzzing the ARM Cortex-M: A Survey.” *Cyber Science 2024 - Proceedings of the International Conference on Cybersecurity, Situational Awareness & Social Media*.
+
+- Shlomit Shachor, Natalia Razinkov, and Abigail Goldsteen. “Improving Membership Inference Attacks against Classification Models.” *Intelligent Decision Technologies. Proceedings of the 16th KES-IDT 2024 Conference*.
+
+- Martin Gilje Jaatun, Steve Taylor, Colin Upstill, Ariel Farkash, Salvador Garcia, and Christos Androutsos. “NEMECYS: Addressing Challenges to Building Security Into Connected Medical Devices.” *HCist - International Conference on Health and Social Care Information Systems and Technologies 2023*.
+
+- Karin Bernsmed and Martin Gilje Jaatun. “Security-by-design Challenges for Medical Device Manufacturers.” *EICC '24: Proceedings of the 2024 European Interdisciplinary Cybersecurity Conference*.
+
+- Andrea Skytterholm, Lars Halvdan Flå, and Martin Gilje Jaatun. “Workshop Insights: Navigating Cybersecurity Regulations for Device Manufacturers and Healthcare Operators.” *Cyber Science 2024 - Proceedings of the International Conference on Cybersecurity, Situational Awareness & Social Media*.
+
+- Androutsos, C., et al. (2025). “MDCG 2019-16 Guidelines: Case Study-Based Assessment and Path Forward.” In Praça, I., Bernardi, S., Inácio, P.R. (eds), *Cybersecurity. EICC 2025. Communications in Computer and Information Science*, vol 2500. Springer, Cham. https://doi.org/10.1007/978-3-031-94855-8_22
+
+- Andrea Neverdal Skytterholm, Christos Androutsos, Adamantios Ntanis, and Martin Gilje Jaatun. “Cybersecurity Guidances for Medical Devices: An MDCG and FDA Regulatory Comparison.” In proceedings of *IEEE SmartComp 2025*, Cork, Ireland. Preprint: [https://jaatun.no/papers/2025/FDAvsMDCG-author.pdf](https://jaatun.no/papers/2025/FDAvsMDCG-author.pdf)
+
 ## 🏢 Organizations Part of NEMECYS Group
 
 1. [**SINTEF**](https://www.sintef.no/en/): A leading independent research organization in Norway, coordinating the NEMECYS project and specializing in cybersecurity for connected medical devices.
