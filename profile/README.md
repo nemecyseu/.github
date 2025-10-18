@@ -12,6 +12,10 @@ We continuously assess the current state of cybersecurity practices for connecte
 
 NEMECYS member organizations develop tools and toolboxes to support cybersecurity by design for CMDs. These tools are created based on realistic needs and scenarios and integrate methodologies, relevant guidelines, and best practices in security by design. The resulting toolboxes are tailored to the requirements of different stakeholders, including medical device manufacturers, integrators, and operators.
 
+![compass](https://github.com/nemecyseu/.github/blob/main/profile/assets/compass.png)
+![trainings](https://github.com/nemecyseu/.github/blob/main/profile/assets/trainings.png)
+
+
 ## 🤝 Scientific Research and Collaboration
 
 NEMECYS fosters scientific research and collaborative initiatives to advance the cybersecurity of connected medical devices. By bringing together experts from academia, industry, and regulatory bodies, we promote innovation, share knowledge, and develop evidence-based solutions that strengthen the security of CMDs throughout their lifecycle. Collaboration also enables the identification of emerging threats and the co-creation of proactive strategies to address them.
