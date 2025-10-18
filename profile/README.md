@@ -18,41 +18,27 @@ NEMECYS fosters scientific research and collaborative initiatives to advance the
 
 ## 🏢 Organizations Part of NEMECYS Group
 
-## 🏢 Organizations Part of NEMECYS Group
+1. [**SINTEF**](https://www.sintef.no/en/): A leading independent research organization in Norway, coordinating the NEMECYS project and specializing in cybersecurity for connected medical devices.
 
-1. **SINTEF**: A leading independent research organization in Norway, coordinating the NEMECYS project and specializing in cybersecurity for connected medical devices.  
-   Social links: [Website](https://www.sintef.no/en/)
+2. [**Mode Sensors**](https://modesensors.com/): A Norwegian company focused on sensor technology, contributing expertise in medical device design and integration.
 
-2. **Mode Sensors**: A Norwegian company focused on sensor technology, contributing expertise in medical device design and integration.  
-   Social links: [Website](https://modesensors.com/)
+3. [**IBM**](https://research.ibm.com/labs/haifa/): A global technology company providing advanced research and machine learning capabilities, enhancing the project's data privacy and cybersecurity efforts.
 
-3. **IBM**: A global technology company providing advanced research and machine learning capabilities, enhancing the project's data privacy and cybersecurity efforts.  
-   Social links: [Website](https://research.ibm.com/labs/haifa/)
+4. [**Athens Technology Center (ATC)**](https://www.atc.gr/): A Greek technology firm specializing in software development and IT system integration, supporting the development of cybersecurity tools for medical devices.
 
-4. **Athens Technology Center (ATC)**: A Greek technology firm specializing in software development and IT system integration, supporting the development of cybersecurity tools for medical devices.  
-   Social links: [Website](https://www.atc.gr/)
+5. [**Ribera Salud**](https://riberasalud.com/): A Spanish healthcare provider involved in implementing cybersecurity measures within hospital settings to protect connected medical devices.
 
-5. **Ribera Salud**: A Spanish healthcare provider involved in implementing cybersecurity measures within hospital settings to protect connected medical devices.  
-   Social links: [Website](https://riberasalud.com/)
+6. [**San Raffaele Hospital**](https://www.hsr.it/en/): An Italian hospital contributing real-world clinical insights to ensure that cybersecurity solutions align with healthcare needs.
 
-6. **San Raffaele Hospital**: An Italian hospital contributing real-world clinical insights to ensure that cybersecurity solutions align with healthcare needs.  
-   Social links: [Website](https://www.hsr.it/en/)
+7. [**MedLab, University of Ioannina**](https://medlab.cc.uoi.gr/): A Greek academic institution focusing on medical research, supporting the development of cybersecurity tools tailored for medical devices.
 
-7. **MedLab, University of Ioannina**: A Greek academic institution focusing on medical research, supporting the development of cybersecurity tools tailored for medical devices.  
-   Social links: [Website](https://medlab.cc.uoi.gr/)
+8. [**Information Catalyst**](https://www.informationcatalyst.com/): A UK-based company specializing in information management and cybersecurity, contributing to the project's risk assessment and compliance tools.
 
-8. **Information Catalyst**: A UK-based company specializing in information management and cybersecurity, contributing to the project's risk assessment and compliance tools.  
-   Social links: [Website](https://www.informationcatalyst.com/)
+9. [**University of Southampton**](https://www.southampton.ac.uk/): A UK university providing research expertise in cybersecurity and digital health, aiding in the development of secure software development pipelines.
 
-9. **University of Southampton**: A UK university providing research expertise in cybersecurity and digital health, aiding in the development of secure software development pipelines.  
-   Social links: [Website](https://www.southampton.ac.uk/)
+10. [**PD Neurotechnology**](https://pdneurotechnology.com/): A UK company focused on neurotechnology, contributing to the project's efforts in securing medical devices used in neurological applications.
 
-10. **PD Neurotechnology**: A UK company focused on neurotechnology, contributing to the project's efforts in securing medical devices used in neurological applications.  
-    Social links: [Website](https://pdneurotechnology.com/)
-
-11. **Debiotech**: A Swiss company specializing in medical device innovation, involved in ensuring the cybersecurity of their connected medical devices.  
-    Social links: [Website](https://www.debiotech.com/)
-
+11. [**Debiotech**](https://www.debiotech.com/): A Swiss company specializing in medical device innovation, involved in ensuring the cybersecurity of their connected medical devices.
 
 ## 🙋‍♂️ I am interested! How can I participate?
 
